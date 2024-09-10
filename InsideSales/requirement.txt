@@ -1,0 +1,13 @@
+Django~=4.2.6
+psycopg2-binary
+django-cors-headers
+django-jsonfield
+python-json-logger
+django-rest-framework
+djangorestframework~=3.14.0
+drf_yasg
+requests~=2.31.0
+selenium==4.16.0
+pandas
+zerobouncesdk
+django_crontab

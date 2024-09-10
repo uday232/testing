@@ -1,0 +1,100 @@
+inside dripify history
+in progress so flag is false
+inside dripify history
+<QuerySet [<SalesPersonDetails: e10d9b2e-d606-4366-884b-b1a0dbd355ae>, <SalesPersonDetails: 5fdbf3ae-318d-4159-84fd-85470131cf0f>]> salespersons
+{<SalesPersonDetails: e10d9b2e-d606-4366-884b-b1a0dbd355ae>: <QuerySet [{'campaign_id': UUID('7d5406c8-7986-4223-b29a-de5ea1ed486e')}]>, <SalesPersonDetails: 5fdbf3ae-318d-4159-84fd-85470131cf0f>: <QuerySet []>} salespersons_and_campaigns
+e10d9b2e-d606-4366-884b-b1a0dbd355ae  salesperson
+lputta@vassarlabs.com  username
+Future@Labs2023  password
+inside dripify
+[{'campaign_salesperson_mapping_id': UUID('71067f86-53a7-410f-9264-a43aeb015845'), 'salesperson_id': UUID('e10d9b2e-d606-4366-884b-b1a0dbd355ae'), 'campaign_id_id': UUID('7d5406c8-7986-4223-b29a-de5ea1ed486e')}]  mapping of campaisgns
+Processing campaign Deb_Full Flow_MFG_2_GetLeads_500-1000 for lputta@vassarlabs.com
+{'campaign_id': UUID('7d5406c8-7986-4223-b29a-de5ea1ed486e'), 'campaign_name': 'Deb_Full Flow_MFG_2_GetLeads_500-1000', 'description': '', 'attribute_value_pairs': '', 'campaign_status': 'In Progress', 'created_ts': '04-02-2024 09:40:36', 'no_of_leads': '1619', 'completed_leads': '0', 'csv_flag': 'In Progress'} camping in update function
+Deb_Full Flow_MFG_2_GetLeads_500-1000  campaign name
+1619  all leads
+0  completed leads
+dripify history  starting
+inside export button page
+162
+1
+Shawn Taher  text name
+https://www.linkedin.com/in/ACoAAACo2KcB-PUWuRWpCxEAYcBa9LYbYWD75T4/  linkedin url
+Mar 31, 2024  date
+09:38  time
+Viewed profile of the lead in Deb_Full Flow_MFG_1_GetLeads_500-1000 campaign  message
+2db0955c-5dd5-47e6-8231-88c3b49bd7ce contact uuid
+7d5406c8-7986-4223-b29a-de5ea1ed486e campaign_id_instance
+saved in linkedin touchpoints
+------------------------------------------
+1
+Maj Gen Christian Drouin Cmm Cd Us Lom  text name
+https://www.linkedin.com/in/ACoAAAp_ucQBoJdYtDWsi-aam14gn9wrWvH20hI/  linkedin url
+Mar 31, 2024  date
+09:23  time
+Viewed profile of the lead in Deb_Full Flow_MFG_1_GetLeads_500-1000 campaign  message
+0bb1c6ff-04ec-4cf2-8d28-ef283ba9f47a contact uuid
+7d5406c8-7986-4223-b29a-de5ea1ed486e campaign_id_instance
+saved in linkedin touchpoints
+------------------------------------------
+1
+Michael Marinaro  text name
+https://www.linkedin.com/in/ACoAABIc2CsBQsTZC6yxz_Wc1oz0vff4OgbmjHg/  linkedin url
+no update
+1
+Clifford Mcfarland  text name
+https://www.linkedin.com/in/ACoAAAcbHLAB-aeW23fZiex9nc0vCs3OjR9r97A/  linkedin url
+no update
+5fdbf3ae-318d-4159-84fd-85470131cf0f  salesperson
+lputta@vassarlabs.com  username
+Future@Labs2023  password
+inside dripify
+[]  mapping of campaisgns
+inside dripify history
+<QuerySet [<SalesPersonDetails: e10d9b2e-d606-4366-884b-b1a0dbd355ae>, <SalesPersonDetails: 5fdbf3ae-318d-4159-84fd-85470131cf0f>]> salespersons
+{<SalesPersonDetails: e10d9b2e-d606-4366-884b-b1a0dbd355ae>: <QuerySet [{'campaign_id': UUID('7d5406c8-7986-4223-b29a-de5ea1ed486e')}]>, <SalesPersonDetails: 5fdbf3ae-318d-4159-84fd-85470131cf0f>: <QuerySet []>} salespersons_and_campaigns
+e10d9b2e-d606-4366-884b-b1a0dbd355ae  salesperson
+lputta@vassarlabs.com  username
+Future@Labs2023  password
+inside dripify
+[{'campaign_salesperson_mapping_id': UUID('71067f86-53a7-410f-9264-a43aeb015845'), 'salesperson_id': UUID('e10d9b2e-d606-4366-884b-b1a0dbd355ae'), 'campaign_id_id': UUID('7d5406c8-7986-4223-b29a-de5ea1ed486e')}]  mapping of campaisgns
+Processing campaign Deb_Full Flow_MFG_2_GetLeads_500-1000 for lputta@vassarlabs.com
+{'campaign_id': UUID('7d5406c8-7986-4223-b29a-de5ea1ed486e'), 'campaign_name': 'Deb_Full Flow_MFG_2_GetLeads_500-1000', 'description': '', 'attribute_value_pairs': '', 'campaign_status': 'In Progress', 'created_ts': '04-02-2024 09:40:36', 'no_of_leads': '1619', 'completed_leads': '0', 'csv_flag': 'In Progress'} camping in update function
+Deb_Full Flow_MFG_2_GetLeads_500-1000  campaign name
+1619  all leads
+0  completed leads
+dripify history  starting
+inside export button page
+162
+1
+Shawn Taher  text name
+https://www.linkedin.com/in/ACoAAACo2KcB-PUWuRWpCxEAYcBa9LYbYWD75T4/  linkedin url
+Mar 31, 2024  date
+09:38  time
+Viewed profile of the lead in Deb_Full Flow_MFG_1_GetLeads_500-1000 campaign  message
+2db0955c-5dd5-47e6-8231-88c3b49bd7ce contact uuid
+7d5406c8-7986-4223-b29a-de5ea1ed486e campaign_id_instance
+saved in linkedin touchpoints
+------------------------------------------
+1
+Maj Gen Christian Drouin Cmm Cd Us Lom  text name
+https://www.linkedin.com/in/ACoAAAp_ucQBoJdYtDWsi-aam14gn9wrWvH20hI/  linkedin url
+Mar 31, 2024  date
+09:23  time
+Viewed profile of the lead in Deb_Full Flow_MFG_1_GetLeads_500-1000 campaign  message
+0bb1c6ff-04ec-4cf2-8d28-ef283ba9f47a contact uuid
+7d5406c8-7986-4223-b29a-de5ea1ed486e campaign_id_instance
+saved in linkedin touchpoints
+------------------------------------------
+1
+Michael Marinaro  text name
+https://www.linkedin.com/in/ACoAABIc2CsBQsTZC6yxz_Wc1oz0vff4OgbmjHg/  linkedin url
+no update
+1
+Clifford Mcfarland  text name
+https://www.linkedin.com/in/ACoAAAcbHLAB-aeW23fZiex9nc0vCs3OjR9r97A/  linkedin url
+no update
+5fdbf3ae-318d-4159-84fd-85470131cf0f  salesperson
+lputta@vassarlabs.com  username
+Future@Labs2023  password
+inside dripify
+[]  mapping of campaisgns

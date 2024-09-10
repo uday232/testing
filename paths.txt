@@ -1,0 +1,30 @@
+
+#Corrected X-Paths: 
+
+employess_strength_size = len(driver.find_elements(By.XPATH,"//zi-profile-page//zi-page-content/div/zi-person-profile-wrapper//zi-person-fullpage//p[contains(@class,'company-details__right__line__info') and not(contains(@class,'truncate-text'))]"))
+
+annual_revenue_size = len(driver.find_elements(By.XPATH,
+                                                   "//div[contains(@label,'Annual Revenue')]//p[contains(@class,'company-details__right__line__info')]"))
+
+title = driver.find_element(By.XPATH, "//zi-person-contact-details//h1[contains(@class,'person-contact-details__title')]").text 
+
+
+
+direct_number_size = len(driver.find_elements(By.XPATH,
+                                                  ""))  
+hq_number = driver.find_element(By.XPATH,
+                                "/html/body/app-root/div[2]/div[2]/zi-sales-root/zi-profile-page/zi-page-template/div/div[2]/zi-page-content/div/zi-person-profile-wrapper/zi-profile-content-v2/div/div[2]/zi-contact-profile/div/div[1]/div/div[1]/div/div/div[1]/div[1]/zi-person-contact-details/main/section[2]/div/zi-entity-data[2]/div/div[1]/a/zi-dotten-text/div/div/span").text 
+mobile_number_size = len(driver.find_elements(By.XPATH,
+                                                  "/html/body/app-root/div[2]/div[2]/zi-sales-root/zi-profile-page/zi-page-template/div/div[2]/zi-page-content/div/zi-person-profile-wrapper/zi-profile-content-v2/div/div[2]/zi-contact-profile/div/div[1]/div/div[1]/div/div/div[1]/div[1]/zi-person-contact-details/main/section[2]/div/zi-entity-data[3]/div/div[1]/a/zi-dotten-text/div/div/span"))
+
+
+business_email_size = len(driver.find_elements(By.XPATH,
+                                                   "//zi-contact-profile//zi-entity-data//a[starts-with(@href, 'mailTo:')]//span"))
+
+
+
+local_address_size = len(driver.find_elements(By.XPATH,
+                                                  "//zi-person-location//zi-designed-divided-text[contains(@titletext,'Local')]/div/div[not(contains(@class,'divided-text--secondary'))]"))
+hq_address_size = len(driver.find_elements(By.XPATH,
+                                               "//zi-person-location//zi-designed-divided-text[contains(@titletext,'HQ')]/div/div[not(contains(@class,'divided-text--secondary'))]"))
+                                                                                
